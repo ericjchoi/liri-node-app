@@ -14,6 +14,7 @@ node liri.js do-what-it-says
 
 ### Current progress
 concert-this function completed.
-Currently working on spotify-this-song.
+spotify-this-song function completed.
 
-Will be updated soon.
+Currently working on movie-this function.
+README.md file will be updated soon.
